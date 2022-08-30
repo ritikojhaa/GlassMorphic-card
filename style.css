@@ -108,14 +108,14 @@ span{
     0%{}
 
     25%{
-        background-color: blue;
+        background-color: rgb(10, 215,202);
     }
 
     50% {
-        background-color: #e61f1f;
+        background-color: #f17c39;
     }
 
     75% {
-        background-color: #04a021;
+        background-color: #b431ce;
     }
 }
